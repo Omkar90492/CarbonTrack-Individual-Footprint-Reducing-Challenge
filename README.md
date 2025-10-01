@@ -1,4 +1,4 @@
-# CarbonTrack-Individual-Footprint-Reducing-Challenge
+# CarbonTrack-Individual-Carbon-Footprint-Reducing-Challenge
 
 
 A data-driven sustainability project built during the **1M1B Green Internship (Batch 5)**. This initiative encourages interns to adopt daily eco-friendly habits, track their actions, and measure the actual CO₂ reduction achieved. The project uses **Excel for data collection** and an **interactive Tableau dashboard** for visualization, making climate impact measurable and motivating through gamification.
