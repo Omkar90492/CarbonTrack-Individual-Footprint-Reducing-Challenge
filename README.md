@@ -73,8 +73,6 @@ A data-driven sustainability project built during the **1M1B Green Internship (B
 
 ## 📸 Screenshots  
 
-### Daily Trend Analysis
-![Daily Trend Analysis](images/DAILY%20TREND%20ANALYSIS.jpg)
 
 ### Key Performance Indicators (KPIs)
 ![KPIs](images/KPI.jpg)
@@ -84,6 +82,9 @@ A data-driven sustainability project built during the **1M1B Green Internship (B
 
 ### Most Popular Habit
 ![Most Popular Habit](images/MOST%20POPULAR%20HABIT.jpg)
+
+### Daily Trend Analysis
+![Daily Trend Analysis](images/DAILY%20TREND%20ANALYSIS.jpg)
 
 ### Top Intern Leaderboard
 ![Top Intern Leaderboard](images/TOP%20INTERN%20LEADERBOARD.jpg) 
