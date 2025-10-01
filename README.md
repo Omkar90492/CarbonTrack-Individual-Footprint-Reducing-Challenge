@@ -65,7 +65,7 @@ A data-driven sustainability project built during the **1M1B Green Internship (B
 
 - 🌍 **CO₂ Saved:** 0.585 MT (585.2 kg)  
 - 👥 **Participants:** 20 interns  
-- 🏫 **Institute Reached:** 1 (Pillai HOC College of Engineering & Technology)  
+- 🏫 **Institute Reached:** 2 (PHCET and SJRIT)  
 - 🌳 **Most Impactful Habit:** Planting of Tree Saplings  
 - 👕 **Most Popular Habit:** Air Dry Laundry instead of using an electric iron  
 
