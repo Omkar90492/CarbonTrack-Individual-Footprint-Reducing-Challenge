@@ -73,11 +73,21 @@ A data-driven sustainability project built during the **1M1B Green Internship (B
 
 ## 📸 Screenshots  
 
-### 🔹 Tableau Dashboard (KPIs + Leaderboard)  
-![Dashboard Screenshot](https://i.imgur.com/XXXXX.png) *(replace with your screenshot link)*  
+### Daily Trend Analysis
+![Daily Trend Analysis](images/DAILY%20TREND%20ANALYSIS.jpg)
 
-### 🔹 Impact Infographic (CO₂ saved + habits)  
-![Impact Infographic](https://i.imgur.com/YYYYY.png)  
+### Key Performance Indicators (KPIs)
+![KPIs](images/KPI.jpg)
+
+### Most Impactful Habit
+![Most Impactful Habit](images/MOST%20IMPACTFUL%20HABIT.jpg)
+
+### Most Popular Habit
+![Most Popular Habit](images/MOST%20POPULAR%20HABIT.jpg)
+
+### Top Intern Leaderboard
+![Top Intern Leaderboard](images/TOP%20INTERN%20LEADERBOARD.jpg) 
+ 
 
 ---
 
